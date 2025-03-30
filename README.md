@@ -1,4 +1,6 @@
-# Go Ensure GOOS Package (`github.com/cjbrigato/ensure`)
+# Go Ensure GOOS Package - Guarantee target OS for Go builds via compile-time checks
+
+[![GoDoc](https://godoc.org/github.com/cjbrigato/ensure?status.svg)](https://godoc.org/github.com/cjbrigato/ensure)
 
 This Go package provides a simple, zero-runtime-cost mechanism to enforce **compile-time** checks for the target operating system (`GOOS`).
 
